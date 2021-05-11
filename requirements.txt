@@ -1,0 +1,7 @@
+flask
+h5py
+jupyter
+numpy
+pandas
+tensorflow-cpu
+voila
